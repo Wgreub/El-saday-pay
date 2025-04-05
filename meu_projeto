@@ -1,0 +1,12 @@
+yeshua-coin-platform/
+├── backend/
+│   ├── Dockerfile
+│   ├── server.js
+│   ├── package.json
+│   └── .env.example
+├── frontend/
+│   ├── Dockerfile
+│   ├── package.json
+│   └── ...
+├── docker-compose.yml
+└── README.md
